@@ -71,12 +71,10 @@ void calibrate() {
       white = false;
   }
 
-  // dupa ce se face schimbarea astept un timp sa merg pana ajung iar in centru
   if (millis() - previousTime >= 200) {
     if (white) {
       previousTime = millis();
       leftDirection = !leftDirection;
-      //calibrateSpeed += 50;
     }
   }
 
