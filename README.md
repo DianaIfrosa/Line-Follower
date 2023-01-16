@@ -38,4 +38,4 @@ Magic numbers are not accepted and consistentency in style is desired.
 
 **In the end, we managed to get an approximate finish time of 21 seconds.**
 
-:film_projector: [Video showcasing the functionality]()   
+:film_projector: [Video showcasing the functionality](https://www.youtube.com/shorts/8KyZO9jaVYE)   
