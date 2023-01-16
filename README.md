@@ -3,6 +3,10 @@
 Line follower robot developed within the "Introduction to Robotics" course, 3rd year, 1st semester.   
 This was a team project.
 
+:camera: Picture of the setup:     
+   
+<img src="./Setup.jpeg" width=70% height=70%>
+
 :hammer_and_wrench: Components:   
 1. Arduino Uno  
 2. Zip-ties  
@@ -33,3 +37,5 @@ Coding style is important.
 Magic numbers are not accepted and consistentency in style is desired.
 
 **In the end, we managed to get an approximate finish time of 21 seconds.**
+
+:film_projector: [Video showcasing the functionality]()   
