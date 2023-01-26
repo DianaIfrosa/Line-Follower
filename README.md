@@ -2,7 +2,7 @@
 
 Line follower robot developed within the "Introduction to Robotics" course, 3rd year, 1st semester.   
 
-Our team "Vecchia Roma" composed of Călin Cruceanu (his repo: TBA) and me had to build a functional line follower from scratch.  
+Our team "Vecchia Roma" composed of Călin Cruceanu ([his repo](https://github.com/TheGladja/Robotics-Line-Follower)) and me had to build a functional line follower from scratch.  
 
 :camera: Picture of the setup (without the battery):     
    
