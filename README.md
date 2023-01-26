@@ -32,7 +32,7 @@ The more interesting part is that we had to write the actual code for it in less
 Before the robot starts to follow the black line, it has to **auto calibrate**, meaning moving to the left and right to distinguish between different colors by using the sensors attached.    
 &emsp; Also it is important to follow the black line no matter what (for example even if there are 2 close curves). It is already known there will be no intersections.   
 
-&emsp; **What we did**: We had an empirical approach, in order to find the best kp, kd, ki values for our robot. We started with fine tuning the kp parameter and after being comfortable with the result, we moved to the kd one. There, we adjusted the smoothness in movements. Finally, we added just a little improvement by setting the ki value to a really small one, to act as an *learning rate*.  Undoubtedly this process took many tries, but we chose the *trial and error* strategy.   
+&emsp; **What we did**: We had an empirical approach, in order to find the best kp, kd, ki values for our robot. We started with fine tuning the kp parameter and after being comfortable with the result, we moved to the kd one. There, we adjusted the smoothness in movements. Finally, we added just a little improvement by setting the ki value to a really small one, to act as a *learning rate*.  Undoubtedly this process took many tries, but we chose the *trial and error* strategy.   
 
 
 :thinking: Challenges encountered:
